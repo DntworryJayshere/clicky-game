@@ -1,0 +1,8 @@
+.footer {
+    background: #5133a4;
+    min-height: 50px;
+    width: 100%;
+    color: #fff;
+    font-size: calc(10px + 14 * (100vw - 320px) / 800);
+    white-space: nowrap;
+  }
